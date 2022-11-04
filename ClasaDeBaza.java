@@ -16,7 +16,7 @@ class ClasaDeBaza {
              System.out.println(animal.areBlana);
          }
         
-
+            
     }
 
 }
